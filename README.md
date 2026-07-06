@@ -45,5 +45,5 @@ Guia em Markdown mostrando como tratar um ataque simulado passo a passo.
 ---
 
 ## 📞 Contato
-- LinkedIn: [Seu perfil aqui]
-- Email: [Seu email aqui]
+- LinkedIn: 
+- Email: fernando-novaes@outlook.com

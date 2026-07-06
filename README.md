@@ -27,7 +27,7 @@ Exemplo de como usar o **Elastic Search** para buscar eventos críticos em regis
 
 ### 3. Análise de Logs
 Ferramenta em Python para detectar padrões estranhos em arquivos de log.  
-👉 [Log Analyzer](./Log-Analyzer)
+👉 [Log Analyzer](https://github.com/malakpentest/Portf-lio-de-Seguran-a-da-Informa-o/blob/main/Elastic%20Demo)
 
 ### 4. Resposta a Incidentes
 Guia em Markdown mostrando como tratar um ataque simulado passo a passo.  

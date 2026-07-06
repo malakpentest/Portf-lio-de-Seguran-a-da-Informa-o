@@ -31,7 +31,7 @@ Ferramenta em Python para detectar padrões estranhos em arquivos de log.
 
 ### 4. Resposta a Incidentes
 Guia em Markdown mostrando como tratar um ataque simulado passo a passo.  
-👉 [Incident Response](./Incident-Response)
+👉 [Incident Response](https://github.com/malakpentest/Portf-lio-de-Seguran-a-da-Informa-o/blob/main/Incident%20Response)
 
 ---
 

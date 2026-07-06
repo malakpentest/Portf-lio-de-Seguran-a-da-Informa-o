@@ -23,7 +23,7 @@ Scripts que geram **logs falsos** e um analisador que identifica atividades susp
 
 ### 2. Elastic Search Demo
 Exemplo de como usar o **Elastic Search** para buscar eventos críticos em registros.  
-👉 [Elastic Demo](./Elastic-Demo)
+👉 [Elastic Demo](https://github.com/malakpentest/Portf-lio-de-Seguran-a-da-Informa-o/blob/main/Elastic%20Demo)
 
 ### 3. Análise de Logs
 Ferramenta em Python para detectar padrões estranhos em arquivos de log.  

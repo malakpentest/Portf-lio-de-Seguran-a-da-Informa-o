@@ -1,4 +1,4 @@
-# Portfólio de Segurança da Informação
+# Portfólio de Segurança da Informação (em andamento) 
 
 Bem-vindo ao meu repositório!  
 Aqui você encontrará projetos e simulações que demonstram minhas habilidades como **Analista de Segurança da Informação Júnior**, com foco em **SIEM**, **Elastic Search** e **análise de logs**.
